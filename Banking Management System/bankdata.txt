@@ -1,0 +1,10 @@
+C|111|luna jenner|7024177983|10000011|1e+006|0
+C|112|luna jenner|7024177983|10000012|10000|2
+T|deposit|10000|moneydeposited
+T|Transfer Sent|100000|Money Transferred
+C|113|uday singh rathore |7974047443|10000013|500000|2
+T|Transfer Received|100000|Money Received
+T|Transfer Received|200000|Money Received
+C|114|aurora winslet|3456217620|10000014|270000|2
+T|deposit|370000|moneydeposited
+T|Transfer Sent|200000|Money Transferred
